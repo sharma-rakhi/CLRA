@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.management</groupId>
-	<artifactId>RisksManagementMicroservice</artifactId>
+	<artifactId>RiskManagementMicroservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RisksManagementMicroservice</name>
+	<name>RiskManagementMicroservice</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
